@@ -1,4 +1,4 @@
-# Leonidas Oy
+# ![Leonidas Oy](https://leonidasoy.fi/wp-content/uploads/2016/10/leo_logo_pieni.png "Leonidas Oy")
 
 ## Are you one of the best?
 
@@ -10,3 +10,5 @@ We constantly challenge old ways of thinking and doing and we’re not afraid to
 
 Apply today:
 jobs@leonidasoy.fi - https://leonidasoy.fi/careers/
+
+![Software Superstar — Leonidas Quality](https://leonidasoy.fi/wp-content/uploads/2016/10/leo_badge_pieni.png "Software Superstar — Leonidas Quality")
